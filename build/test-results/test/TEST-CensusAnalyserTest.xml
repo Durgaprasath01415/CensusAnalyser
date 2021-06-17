@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CensusAnalyserTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-16T11:45:38" hostname="DESKTOP-BS45UV7" time="0.646">
+<testsuite name="CensusAnalyserTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-17T04:39:28" hostname="DESKTOP-BS45UV7" time="0.776">
   <properties/>
-  <testcase name="givenIndiaCensusData_WhenHeaderIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.257"/>
+  <testcase name="givenIndiaCensusData_WhenHeaderIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.279"/>
   <testcase name="givenStateCensusData_WithWrongFile_ShouldThrowException" classname="CensusAnalyserTest" time="0.002"/>
-  <testcase name="givenStateCensusCSVFile_ReturnsCorrectRecords" classname="CensusAnalyserTest" time="0.361"/>
-  <testcase name="givenIndiaCensusData_WhenDelimiterIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.004"/>
-  <testcase name="givenIndiaCensusData_WhenWrongType_ShouldThrowException" classname="CensusAnalyserTest" time="0.017"/>
+  <testcase name="givenStateCensusCSVFile_ReturnsCorrectRecords" classname="CensusAnalyserTest" time="0.438"/>
+  <testcase name="givenIndiaCensusData_WhenDelimiterIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.014"/>
+  <testcase name="givenIndiaCensusData_WhenWrongType_ShouldThrowException" classname="CensusAnalyserTest" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
