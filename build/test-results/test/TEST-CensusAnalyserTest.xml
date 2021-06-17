@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CensusAnalyserTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-17T04:39:28" hostname="DESKTOP-BS45UV7" time="0.776">
+<testsuite name="CensusAnalyserTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-06-17T05:28:43" hostname="DESKTOP-BS45UV7" time="0.736">
   <properties/>
-  <testcase name="givenIndiaCensusData_WhenHeaderIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.279"/>
-  <testcase name="givenStateCensusData_WithWrongFile_ShouldThrowException" classname="CensusAnalyserTest" time="0.002"/>
-  <testcase name="givenStateCensusCSVFile_ReturnsCorrectRecords" classname="CensusAnalyserTest" time="0.438"/>
-  <testcase name="givenIndiaCensusData_WhenDelimiterIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.014"/>
-  <testcase name="givenIndiaCensusData_WhenWrongType_ShouldThrowException" classname="CensusAnalyserTest" time="0.008"/>
+  <testcase name="givenIndiaStateCode_WhenDelimiterIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.212"/>
+  <testcase name="givenIndiaCensusData_WhenHeaderIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.033"/>
+  <testcase name="givenIndiaStateCode_WhenHeaderIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.007"/>
+  <testcase name="givenIndiaStateCode_WithWrongFile_ShouldThrowException" classname="CensusAnalyserTest" time="0.065"/>
+  <testcase name="givenIndiaStateCode_WhenWrongType_ShouldThrowException" classname="CensusAnalyserTest" time="0.003"/>
+  <testcase name="givenStateCensusData_WithWrongFile_ShouldThrowException" classname="CensusAnalyserTest" time="0.0"/>
+  <testcase name="givenIndianStateCodeCSVFileReturnsCorrectRecords" classname="CensusAnalyserTest" time="0.003"/>
+  <testcase name="givenStateCensusCSVFile_ReturnsCorrectRecords" classname="CensusAnalyserTest" time="0.374"/>
+  <testcase name="givenIndiaCensusData_WhenDelimiterIncorrect_ShouldThrowException" classname="CensusAnalyserTest" time="0.011"/>
+  <testcase name="givenIndiaCensusData_WhenWrongType_ShouldThrowException" classname="CensusAnalyserTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
