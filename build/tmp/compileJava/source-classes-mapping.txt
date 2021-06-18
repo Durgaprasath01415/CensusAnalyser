@@ -3,7 +3,7 @@ StateCensusCSV.java
 CensusAnalyserException.java
  CensusAnalyserException
  CensusAnalyserException$ExceptionType
-CensusAnalyser.java
- CensusAnalyser
 IndianStateCodeCSV.java
  IndianStateCodeCSV
+CensusAnalyser.java
+ CensusAnalyser
